@@ -1,1 +1,2 @@
 # Roshan-Di-Kulfi-Dashboard
+#Dashboard for our client's Indian snack business! Including slicers for filtering items, displaying prices, quantities, calories, and profit margins provides valuable insights into their operations and offerings. Having this information readily available can help our client make informed decisions about their inventory, pricing strategy, and overall business performance.
